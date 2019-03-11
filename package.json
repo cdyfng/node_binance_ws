@@ -1,0 +1,14 @@
+{
+  "name": "node_binance_ws",
+  "version": "1.0.0",
+  "description": "binance dex websocket",
+  "main": "index.js",
+  "scripts": {
+    "test": "node"
+  },
+  "author": "cdyfng",
+  "license": "MIT",
+  "dependencies": {
+    "ws": "^6.2.0"
+  }
+}
